@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.poly</groupId>
 	<artifactId>interractive3dvirtualtours</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>interractive3dvirtualtours</name>
 	<description>INTERACTIVE  3D VIRTUAL TOURS</description>
 	<properties>
